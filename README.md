@@ -1,9 +1,4 @@
 # web-scraping
-**Node.js
-
-
-
-
 
 
 **Cheerio (javascript library)**
