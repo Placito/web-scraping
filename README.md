@@ -5,7 +5,14 @@
 
 ## Description
 
-usar o robô para extrair informação de um site, nomeadamente os filmes que ganharam o oscar de na cvategoria de melhor filme.
+Use the robot to extract information from a website.
+In this specifc case, the goal was obtain the films names that won the Oscar in the best film category.
+
+
+
+
+
+
 
 
 
