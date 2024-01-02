@@ -10,8 +10,10 @@ async function getMovies() {
     
     $('.wikitable tbody tr').each((i,elem) => {
         const name = $(elem).find('td[style*="background:#FAEB86"]').last().text();
+        const year = $(elem).find('td[style*="background:#FAEB86"]').first().prev('td').text();
         if(name !== "") {
-            console.log(name);
+            console.log(year);
+            movie = { name }
         };
     });
 }
